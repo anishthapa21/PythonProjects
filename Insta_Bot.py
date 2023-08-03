@@ -1,3 +1,4 @@
+#Using Selenium with Python to automate and like all the post of a given profile.
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
